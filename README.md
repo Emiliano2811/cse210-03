@@ -41,7 +41,8 @@ root                    (project root folder)
 
 ## Authors
 * Nathan Rolim
-*
+* Emiliano Becerril 
+* Brandon 
 
 ## Give Us Our Extra Credit Pretty Please?
 
