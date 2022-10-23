@@ -40,7 +40,7 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
-* Nathan Rolim
+* Nathan Rolim (nathanrolim@byui.edu)
 * Emiliano Becerril (bec22002@byui.edu)
 * Brandon 
 
