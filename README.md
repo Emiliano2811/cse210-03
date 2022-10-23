@@ -46,6 +46,4 @@ root                    (project root folder)
 
 ## Give Us Our Extra Credit Pretty Please?
 
-We Added a difficulty setting with three options with different word pools to draw from. We also printed a nice Welcome Message from the terminal_service class. 
-
-We think this is kinda neat and we hope you like it.
+The player can select difficulty, a welcome message was set in the terminal.
